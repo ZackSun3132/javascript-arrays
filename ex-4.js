@@ -12,3 +12,5 @@ const employees = [
 ];
 
 // Start coding here
+
+console.log(employees);
